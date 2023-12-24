@@ -239,7 +239,8 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: #cc1616;
+  background: yellow;
+  color: #0c0c0c;
 }
 
 .navbar .dropdown ul {
@@ -318,7 +319,7 @@ h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #cc1616;
+  color: yellow;
 }
 
 @media (max-width: 991px) {
@@ -421,7 +422,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/back2.jpg") top center;
   background-size: cover;
   position: relative;
 }
